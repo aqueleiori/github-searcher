@@ -1,0 +1,26 @@
+.main{background:#282a36;color:#f8f8f2;}
+.container{
+  font-family:sans-serif;
+  display:flex;
+  align-items:center;
+  height:80vh;
+  justify-content:center;
+  text-align:center;
+}
+.text{
+  margin:20px;
+}
+.selector{
+  display:flex;
+  justify-content:space-around;
+  margin: 15px;
+}
+.btnselec{
+  width:120px;
+}
+.txselec{
+  color:white;
+  padding:20px;
+  background:none;
+  border: 2px solid;
+}
